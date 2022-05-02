@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Socket Test</h1>
+      <h1>Welcome to this chat app</h1>
     </div>
   );
 }
